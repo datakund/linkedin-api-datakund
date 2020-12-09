@@ -12,3 +12,4 @@ Functions
    send_message
    get_job_profile
    search
+   search_people
