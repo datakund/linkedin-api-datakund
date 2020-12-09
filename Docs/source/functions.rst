@@ -11,3 +11,4 @@ Functions
    click_next
    send_message
    get_job_profile
+   search
