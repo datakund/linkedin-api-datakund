@@ -7,3 +7,6 @@ Functions
    :maxdepth: 2
 
    login
+   get_messages
+   click_next
+   send_message
