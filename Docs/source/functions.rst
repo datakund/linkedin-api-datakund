@@ -15,3 +15,4 @@ Functions
    enter_job_location
    send_message
    follow_company
+   unfollow_company
