@@ -18,3 +18,4 @@ Functions
    unfollow_company
    send_connection
    get_profile
+   get_company_profile
