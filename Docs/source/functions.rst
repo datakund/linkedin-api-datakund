@@ -30,3 +30,4 @@ Functions
    upload_content
    search_companies
    get_feed
+   companies_results
