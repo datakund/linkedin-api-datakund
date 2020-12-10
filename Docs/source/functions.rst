@@ -35,3 +35,6 @@ Functions
    groups_results
    join_group
    get_post
+   get_comments
+   click_load_more
+   posts_links
