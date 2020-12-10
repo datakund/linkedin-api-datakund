@@ -31,3 +31,4 @@ Functions
    search_companies
    get_feed
    companies_results
+   search_groups
