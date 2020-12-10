@@ -34,3 +34,4 @@ Functions
    search_groups
    groups_results
    join_group
+   get_post
