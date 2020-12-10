@@ -32,3 +32,4 @@ Functions
    get_feed
    companies_results
    search_groups
+   groups_results
