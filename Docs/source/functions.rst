@@ -26,3 +26,4 @@ Functions
    open_connections
    comment_on_post
    get_messages
+   send_message_by_name
