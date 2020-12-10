@@ -25,3 +25,4 @@ Functions
    posts_results
    open_connections
    comment_on_post
+   get_messages
