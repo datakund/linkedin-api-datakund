@@ -9,3 +9,4 @@ Functions
    login
    searches
    get_job_profile
+   search_people
