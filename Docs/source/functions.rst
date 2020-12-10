@@ -10,3 +10,4 @@ Functions
    searches
    get_job_profile
    search_people
+   search_jobs
