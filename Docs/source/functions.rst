@@ -23,3 +23,4 @@ Functions
    people_results
    jobs_results
    posts_results
+   open_connections
