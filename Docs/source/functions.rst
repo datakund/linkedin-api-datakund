@@ -19,3 +19,4 @@ Functions
    send_connection
    get_profile
    get_company_profile
+   click_next
