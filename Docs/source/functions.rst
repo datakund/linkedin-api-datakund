@@ -16,3 +16,4 @@ Functions
    send_message
    follow_company
    unfollow_company
+   send_connection
