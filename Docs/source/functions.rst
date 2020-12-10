@@ -14,3 +14,4 @@ Functions
    search_posts
    enter_job_location
    send_message
+   follow_company
