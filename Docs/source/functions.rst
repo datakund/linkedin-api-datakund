@@ -12,3 +12,4 @@ Functions
    search_people
    search_jobs
    search_posts
+   enter_job_location
