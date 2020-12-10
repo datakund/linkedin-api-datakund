@@ -65,6 +65,16 @@ It perform the keypress passed.
    :return: {}
    :rtype: dict
 
+Scroll
+===================
+
+It scrolls to the end of page.
+
+.. py:function:: linkedin.scroll()
+
+   :return: {}
+   :rtype: dict
+   
 End
 ===================
 
