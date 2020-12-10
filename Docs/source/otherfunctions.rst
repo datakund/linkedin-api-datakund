@@ -7,57 +7,63 @@ Open
 
 It will open the url provided in the argument.
 
-.. code-block:: python
+.. py:function:: linkedin.open(url)
 
-	linkedin.open("https://www.linkedin.com/")
+   :param str url: Link which need to be opened
+   :return: {}
+   :rtype: dict
+	
 	
 Get Page Title
 =================
 
 It returns the title of page opened.
 
-.. code-block:: python
+.. py:function:: linkedin.get_page_title()
 
-	res=linkedin.get_page_title()
-	#res={"pagetitle":"Linkedin"}
+   :return: {"pagetitle":"Linkedin"}
+   :rtype: dict
 
 Get Page Source
 ===================
 
 It returns the pagesource of page opened.
 
-.. code-block:: python
+.. py:function:: linkedin.get_page_source()
 
-	res=linkedin.get_page_source()
-	#res={"pagesource":"pagesource"}
+   :return: {"pagesource":"pagesource"}
+   :rtype: dict
 
 Get Current Url
 ===================
 
 It returns the pagesource of page opened.
 
-.. code-block:: python
+.. py:function:: linkedin.get_current_url()
 
-	res=linkedin.get_current_url()
-	#res={"url":"https://www.linkedin.com/"}
+   :return: {"url":"url"}
+   :rtype: dict
 
 Reload
 ===================
 
 It reloads the page opened.
 
-.. code-block:: python
+.. py:function:: linkedin.reload()
 
-	res=linkedin.reload()
+   :return: {}
+   :rtype: dict
 
 Keypress
 ===================
 
 It perform the keypress passed.
 
-.. code-block:: python
+.. py:function:: linkedin.keypress(key)
 
-	res=linkedin.keypress("pagedown")
+   :param str key: Key which need to be pressed, e.g pagedown,arrowleft,enter
+   :return: {}
+   :rtype: dict
 
 End
 ===================
@@ -66,9 +72,10 @@ It ends the linkedin session and close the automated chromedriver.
 
 .. note:: You will need to create linkedin object again after ``end()``.
 
-.. code-block:: python
+.. py:function:: linkedin.end()
 
-	linkedin.end()
+   :return: {}
+   :rtype: dict
 	
 Quit
 ===================
@@ -77,6 +84,7 @@ It quits the datakund application runing in background.
 
 .. note:: You will need to import datakund library again to start datakund application.
 
-.. code-block:: python
+.. py:function:: linkedin.quit()
 
-	linkedin.quit()
+   :return: {}
+   :rtype: dict

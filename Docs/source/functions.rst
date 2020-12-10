@@ -7,10 +7,5 @@ Functions
    :maxdepth: 2
 
    login
-   get_messages
-   click_next
-   send_message
+   searches
    get_job_profile
-   search
-   search_people
-   search_jobs
