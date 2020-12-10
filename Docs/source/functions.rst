@@ -13,3 +13,4 @@ Functions
    search_jobs
    search_posts
    enter_job_location
+   send_message
