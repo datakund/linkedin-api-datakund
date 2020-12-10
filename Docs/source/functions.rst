@@ -22,3 +22,4 @@ Functions
    click_next
    people_results
    jobs_results
+   posts_results
