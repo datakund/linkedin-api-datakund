@@ -29,3 +29,4 @@ Functions
    send_message_by_name
    upload_content
    search_companies
+   get_feed
