@@ -8,5 +8,5 @@ Here is the code:-
 .. py:function:: linkedin.jobs_results()
 
    
-   :return: {'Link': 'Link'}
-   :rtype: dict
+   :return: [{'Link': 'Link'}]
+   :rtype: list
