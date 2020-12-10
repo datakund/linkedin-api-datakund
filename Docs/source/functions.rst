@@ -20,3 +20,4 @@ Functions
    get_profile
    get_company_profile
    click_next
+   people_results
