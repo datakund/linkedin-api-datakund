@@ -21,3 +21,4 @@ Functions
    get_company_profile
    click_next
    people_results
+   jobs_results
