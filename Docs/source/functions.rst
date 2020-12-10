@@ -24,3 +24,4 @@ Functions
    jobs_results
    posts_results
    open_connections
+   comment_on_post
