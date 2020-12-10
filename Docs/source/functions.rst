@@ -17,3 +17,4 @@ Functions
    follow_company
    unfollow_company
    send_connection
+   get_profile
