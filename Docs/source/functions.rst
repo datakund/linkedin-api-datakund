@@ -33,3 +33,4 @@ Functions
    companies_results
    search_groups
    groups_results
+   join_group
