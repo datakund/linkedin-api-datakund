@@ -8,5 +8,5 @@ Here is the code:-
 .. py:function:: linkedin.get_comments()
 
    
-   :return: [{'UserName': 'UserName', 'Column A': 'Column A', 'Info': 'Info', 'Comment': 'Comment', 'User Link': 'User Link'}]
+   :return: [{'Comment': 'Comment', 'User Link': 'User Link', 'UserName': 'UserName', 'Info': 'Info'}]
    :rtype: list

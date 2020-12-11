@@ -8,5 +8,5 @@ Here is the code:-
 .. py:function:: linkedin.companies_results()
 
    
-   :return: [{'Title': 'Title', 'Column A': 'Column A', 'Type': 'Type', 'Followers': 'Followers', 'CompanyLink': 'CompanyLink'}]
+   :return: [{'Followers': 'Followers', 'CompanyLink': 'CompanyLink', 'Type': 'Type', 'Title': 'Title'}]
    :rtype: list
