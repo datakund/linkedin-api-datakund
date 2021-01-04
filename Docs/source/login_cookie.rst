@@ -1,7 +1,7 @@
 **************************************************
-Upload Content
+Login Cookie
 **************************************************
-It uploads the post passed in ``content``.
+It will login to linkedin via your cookies.
 
 **body**: returns data
 
@@ -11,9 +11,9 @@ It uploads the post passed in ``content``.
 
 Here is the code:-
 
-.. py:function:: linkedin.upload_content(content="content")
+.. py:function:: linkedin.login_cookie(cookies="cookies")
 
    
-   :param str content: Post text need to be posted on linkedin
+   :param str cookies: list of cookies of linkedin
    :return: {"body": {}, "success_score": "100", "errors": []}
    :rtype: dict

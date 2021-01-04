@@ -38,3 +38,6 @@ Functions
    get_comments
    click_load_more
    posts_links
+   login_cookie
+   accept_invitation
+   clicknext

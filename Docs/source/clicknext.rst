@@ -1,7 +1,7 @@
 **************************************************
-Upload Content
+Clicknext
 **************************************************
-It uploads the post passed in ``content``.
+It clicks on Next button on search results page.
 
 **body**: returns data
 
@@ -11,9 +11,8 @@ It uploads the post passed in ``content``.
 
 Here is the code:-
 
-.. py:function:: linkedin.upload_content(content="content")
+.. py:function:: linkedin.clicknext()
 
    
-   :param str content: Post text need to be posted on linkedin
    :return: {"body": {}, "success_score": "100", "errors": []}
    :rtype: dict
