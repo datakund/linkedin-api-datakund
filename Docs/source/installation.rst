@@ -14,7 +14,6 @@ Creating Object
 **************************************************
 .. code-block:: python
 	
-	obj=datakund()
-	linkedin=obj.linkedin()
+	linkedin=datakund.linkedin()
 	
 It will return the object which you can further use to call linkedin functions and opens a automated browser
