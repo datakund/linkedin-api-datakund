@@ -11,7 +11,7 @@ It fetches the profile of the company passed in ``company_link``.
 
 Here is the code:-
 
-.. py:function:: linkedin.get_company_profile(company_link="company_link")
+.. py:function:: linkedin.get_company_profile(company_link="https://www.linkedin.com/company/microsoft/")
 
    
    :param str company_link: Company link whose data need to be fetched
