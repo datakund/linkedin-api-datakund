@@ -11,7 +11,7 @@ It searches the keyword passed in ``keyword`` and clicks on first search result 
 
 Here is the code:-
 
-.. py:function:: linkedin.send_message_by_name(message="message",keyword="keyword")
+.. py:function:: linkedin.send_message_by_name(message="Hi",keyword="DataKund")
 
    
    :param str message: Text need to comment on post
