@@ -11,7 +11,7 @@ It sends message to user passed in ``profile_link`` with ``message`` as message.
 
 Here is the code:-
 
-.. py:function:: linkedin.send_message(message="message",profile_link="profile_link")
+.. py:function:: linkedin.send_message(message="Hi",profile_link="https://www.linkedin.com/in/abhishek-chaudhary-/")
 
    
    :param str message: message which need to be send
