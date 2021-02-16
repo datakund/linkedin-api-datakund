@@ -11,7 +11,7 @@ It fetches the profile of the user passed in ``profile_link``.
 
 Here is the code:-
 
-.. py:function:: linkedin.get_profile(profile_link="profile_link")
+.. py:function:: linkedin.get_profile(profile_link="https://www.linkedin.com/in/abhishek-chaudhary-/")
 
    
    :param str profile_link: Profile link of user whose data need to be fetched
