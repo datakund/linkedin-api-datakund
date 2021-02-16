@@ -11,7 +11,7 @@ It uploads the post passed in ``content``.
 
 Here is the code:-
 
-.. py:function:: linkedin.upload_content(content="content")
+.. py:function:: linkedin.upload_content(content="Hi, hope all are doing well.....")
 
    
    :param str content: Post text need to be posted on linkedin
