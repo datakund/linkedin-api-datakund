@@ -11,7 +11,7 @@ It fills location passed in ``location`` on search results page.
 
 Here is the code:-
 
-.. py:function:: linkedin.enter_job_location(location="location")
+.. py:function:: linkedin.enter_job_location(location="Delhi")
 
    
    :param str location: pass location like delhi,goa
