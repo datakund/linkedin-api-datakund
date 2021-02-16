@@ -11,7 +11,7 @@ It unfollows the company passed in ``company_link``.
 
 Here is the code:-
 
-.. py:function:: linkedin.unfollow_company(company_link="company_link")
+.. py:function:: linkedin.unfollow_company(company_link="https://www.linkedin.com/company/microsoft/")
 
    
    :param str company_link: company link which need to be unfollowed
