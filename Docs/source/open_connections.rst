@@ -11,7 +11,7 @@ It opens connections of the user passed in ``profile_link``.
 
 Here is the code:-
 
-.. py:function:: linkedin.open_connections(profile_link="profile_link")
+.. py:function:: linkedin.open_connections(profile_link="https://www.linkedin.com/in/bhawna-vashisht-444174117/")
 
    
    :param str profile_link: Profile link whose connections need to be opened
