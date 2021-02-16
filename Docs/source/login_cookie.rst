@@ -11,7 +11,7 @@ It will login to linkedin via your cookies.
 
 Here is the code:-
 
-.. py:function:: linkedin.login_cookie(cookies="cookies")
+.. py:function:: linkedin.login_cookie(cookies=[{"domain": ".linkedin.com","expirationDate": 1676524503,"hostOnly": false,"httpOnly": false,"name": "_ga",},...])
 
    
    :param str cookies: list of cookies of linkedin
