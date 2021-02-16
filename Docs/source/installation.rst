@@ -8,7 +8,7 @@ Import datakund
 **************************************************
 .. code-block:: python
 
-	from datakund.datakund import *
+	from datakund import *
 
 Creating Object
 **************************************************
