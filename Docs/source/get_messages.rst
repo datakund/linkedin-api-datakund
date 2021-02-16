@@ -11,7 +11,7 @@ It fetch messages of user passed in ``profile_link``.
 
 Here is the code:-
 
-.. py:function:: linkedin.get_messages(profile_link="profile_link")
+.. py:function:: linkedin.get_messages(profile_link="https://www.linkedin.com/in/abhishek-chaudhary-/")
 
    
    :param str profile_link: Profile link whose messages need to be fetched
