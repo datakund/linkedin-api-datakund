@@ -11,7 +11,7 @@ It sends conection request to the user passed in ``profile_link``.
 
 Here is the code:-
 
-.. py:function:: linkedin.send_connection(profile_link="profile_link")
+.. py:function:: linkedin.send_connection(profile_link="https://www.linkedin.com/in/abhishek-chaudhary-/")
 
    
    :param str profile_link: Profile link of user to whom connection need to be sent
