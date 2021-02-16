@@ -11,7 +11,7 @@ It fetches data of post passed in ``post_link``.
 
 Here is the code:-
 
-.. py:function:: linkedin.get_post(post_link="post_link")
+.. py:function:: linkedin.get_post(post_link="https://www.linkedin.com/feed/update/urn:li:activity:6764456234197295104?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6764456234197295104%29")
 
    
    :param str post_link: Link of post whose data need to be fetched
