@@ -11,7 +11,7 @@ It searches the keyword passed in ``keyword`` and opens companies results.
 
 Here is the code:-
 
-.. py:function:: linkedin.search_companies(keyword="keyword")
+.. py:function:: linkedin.search_companies(keyword="machine learning")
 
    
    :param str keyword: Search keyword like microsoft,google
