@@ -11,7 +11,7 @@ It searches the keyword passed in ``keyword`` and opens people.
 
 Here is the code:-
 
-.. py:function:: linkedin.search_people(keyword="keyword")
+.. py:function:: linkedin.search_people(keyword="Hr manager")
 
    
    :param str keyword: Keyword need to be searched like hr,python
