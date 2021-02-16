@@ -11,7 +11,7 @@ It searches the keyword passed in ``keyword`` and opens group results.
 
 Here is the code:-
 
-.. py:function:: linkedin.search_groups(keyword="keyword")
+.. py:function:: linkedin.search_groups(keyword="artificial intelligence")
 
    
    :param str keyword: Search keyword like python,machine learning
