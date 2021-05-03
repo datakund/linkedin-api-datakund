@@ -90,9 +90,9 @@ It ends the linkedin session and close the automated chromedriver.
 Quit
 ===================
 
-It quits the datakund application runing in background.
+It quits the bot-studio application runing in background.
 
-.. note:: You will need to import datakund library again to start datakund application.
+.. note:: You will need to import bot-studio library again to start application.
 
 .. py:function:: linkedin.quit()
 
